@@ -1,0 +1,13 @@
+{
+  "column-order": [
+    "highly_variable",
+    "means",
+    "dispersions",
+    "dispersions_norm",
+    "highly_variable_nbatches",
+    "highly_variable_intersection"
+  ],
+  "_index": "_index",
+  "encoding-type": "dataframe",
+  "encoding-version": "0.2.0"
+}
